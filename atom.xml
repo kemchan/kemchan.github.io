@@ -4,7 +4,7 @@
   <subtitle><![CDATA[叶济芬是一只智障的猫]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="kemchan.github.io/"/>
-  <updated>2015-06-20T08:29:14.782Z</updated>
+  <updated>2015-06-19T11:17:03.143Z</updated>
   <id>kemchan.github.io/</id>
   
   <author>
@@ -13,21 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="kemchan.github.io/2015/06/20/%E6%97%A0%E6%A0%87%E9%A2%98%E6%96%87%E6%A1%A3/"/>
-    <id>kemchan.github.io/2015/06/20/无标题文档/</id>
-    <published>2015-06-20T08:29:14.842Z</published>
-    <updated>2015-06-20T08:29:14.782Z</updated>
-    <content type="html"><![CDATA[<p>title: go fuck yourself #文章页面上的显示名称，可以任意修改，不会出现在URL中<br>date: 2015-6-20 16:27:16 #文章生成时间，一般不改，当然也可以任意修改<br>categories: whatever #分类<br>tags: [go,fuck,yourself] #文章标签，可空，多标签请用格式，注意:后面有个空格<br>description: no description</p>
-<p>689 go fuck yourself</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>title: go fuck yourself #文章页面上的显示名称，可以任意修改，不会出现在URL中<br>date: 2015-6-20 16:27:16 #文章生成时间，一般不改，当然也可以任意修改<br>categories: whatever #分类<br>ta]]>
-    </summary>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
